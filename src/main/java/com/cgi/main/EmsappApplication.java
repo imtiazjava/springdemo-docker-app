@@ -8,7 +8,7 @@ public class EmsappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmsappApplication.class, args);
-	    System.out.println("Good Evening...");
+	    System.out.println("Good Evening.");
 	}
 
 }
